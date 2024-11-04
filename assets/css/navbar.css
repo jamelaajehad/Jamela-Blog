@@ -1,0 +1,15 @@
+.navbar {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: #c2a893;
+    margin-bottom: 1rem;
+}
+.navbar a {
+   font-size: 24px;
+   color: #fff;
+   text-decoration: none;
+   padding: 0 15px;
+}
